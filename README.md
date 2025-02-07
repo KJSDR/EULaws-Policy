@@ -26,7 +26,7 @@ Interactive Visualizations
 
 User Engagement
 
-Multilingual support (English, French, German, etc.).
+- Multilingual support (English, French, German, etc.).
 
 - Bookmark and export features for researchers, students, and policymakers.
 
