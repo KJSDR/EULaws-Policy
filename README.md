@@ -18,7 +18,7 @@ Interactive Visualizations
 
 - Timeline View: Track the evolution of laws over time.
 
--Map View: Highlight affected countries with color-coded impact levels.
+- Map View: Highlight affected countries with color-coded impact levels.
 
 - Network Graph: Show connections between laws, policies, and industries.
 
